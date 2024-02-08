@@ -26,9 +26,7 @@ Welcome to our Job Board Website! This platform serves as a bridge between emplo
 2. Install Node.js if you haven't already.
 3. Navigate to the project directory in your terminal.
 4. Install project dependencies using `npm install`.
-5. Set up your MongoDB database and update the connection string in the appropriate configuration file.
-6. Run the server using `npm start` or `node app.js`.
-7. Access the website in your browser at `http://localhost:3000`.
+5. Access the website in your browser at `http://localhost:3000`.
 
 ## Contributing
 
