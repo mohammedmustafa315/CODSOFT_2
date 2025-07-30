@@ -71,7 +71,8 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/mohammedmustfa315/job-board-website.git
+git clone https://github.com/mohammedmustafa315/CODSOFT_2/tree/main/Level-2_Task-2_Job%20Landing%20Page
+
 cd job-board-website
 Open index.html in your browser.
 
