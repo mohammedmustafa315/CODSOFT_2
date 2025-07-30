@@ -1,7 +1,10 @@
-Job Board Website
+**Job Board Website**
+
+
+
 A simple and modern Job Board Website built with HTML and CSS. This project provides an interactive platform for users to search jobs, view achievements, read blogs, and connect through a contact form.
 
-📌 Features
+**📌 Features**
 Homepage (index.html)
 
 Overview of available jobs.
@@ -36,6 +39,8 @@ Response Page (response.html)
 
 Confirmation for submitted queries.
 
+
+
 📂 Project Structure
 plaintext
 Copy
@@ -48,6 +53,8 @@ Edit
 ├── response.html       # Query submission response
 ├── Login.html          # Login page
 🎨 Design
+
+
 Responsive Layout with clean navigation.
 
 Color Theme:
@@ -64,7 +71,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/job-board-website.git
+git clone https://github.com/mohammedmustfa315/job-board-website.git
 cd job-board-website
 Open index.html in your browser.
 
@@ -77,9 +84,4 @@ Include authentication system with user roles (recruiters & candidates).
 
 Enhance responsiveness with Bootstrap or Tailwind CSS.
 
-📧 Contact
-For queries and contributions, contact:
 
-📞 Phone: +91 9876543210
-
-📩 Email: mrx312005@gmail.com
